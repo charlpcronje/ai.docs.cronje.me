@@ -4,6 +4,7 @@ url: https://ai.docs.cronje.me
 branding:
   title: CRONje.ME | Artificial intelligence
   label: AI
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
