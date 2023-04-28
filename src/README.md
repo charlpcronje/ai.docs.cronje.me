@@ -49,6 +49,7 @@ footer:
 - [Text Classification with Gravity Model](classifyTextGravity.md)
 - [AI Online Tools](onlineTools.md)
 - [Large Language Models (GPT 3.0|3.5|4.0)](llm.md)
+- [Jailbreaking AI (GPT 3.0|3.5|4.0)](jailbreakingAI.md)
 - [Creating a Chat Bot](chatbot.md)
 - [Creating custom LLM](llmCustom.md)
 - [Python BING Voice Assistant](https://www.youtube.com/watch?v=aokn48vB0kc)
