@@ -46,14 +46,21 @@ footer:
 01000001  01001001  00101110  01100100  01101111  01100011  01110011  00101110   01000011   01010010  01001111  01001110  01101010  01100101  00101110  01001101  01000101  
 ```
 
-- [Text Classification with Gravity Model](classifyTextGravity.md)
-- [AI Online Tools](onlineTools.md)
-- [Large Language Models (GPT 3.0|3.5|4.0)](llm.md)
-- [Jailbreaking AI (GPT 3.0|3.5|4.0)](jailbreakingAI.md)
-- [Creating a Chat Bot](chatbot.md)
-- [Creating custom LLM](llmCustom.md)
-- [Python BING Voice Assistant](https://www.youtube.com/watch?v=aokn48vB0kc)
-- [Chat GPT With Vision](https://www.youtube.com/watch?v=ivwnJW9gkuk)
-- [GPT Improving it's own code](https://www.youtube.com/watch?v=MV5QIQSDHDI)
-- [Auto-GPT Agents: The SEO Revolution](https://www.youtube.com/watch?v=TPO4lxqM5sY)
-- [Amazon CodeWhisperer](https://www.youtube.com/watch?v=rHNMfOK8pWI)
+### 1. AI Tasks and Projects
+
+- [1.1. Text Classification with Gravity Model](./classifyTextGravity.md)
+- [1.2. AI Online Tools](./onlineTools.md)
+- [1.3. Creating a Chat Bot](./chatbot.md)
+- [1.4. Creating custom LLM](./llmCustom.md)
+- [1.5. Shopping Mall Chat Bots]('./mallChat/README.md')
+
+### 2. Public AI Models
+ - [2.1. Large Language Models (GPT 3.0|3.5|4.0)](./llm.md)
+ - [2.2. Jailbreaking AI (GPT 3.0|3.5|4.0)](./jailbreakingAI.md)
+
+### 3. For more info, check out these youtube videos
+- [3.1. Python BING Voice Assistant](https://www.youtube.com/watch?v=aokn48vB0kc)
+- [3.2. Chat GPT With Vision](https://www.youtube.com/watch?v=ivwnJW9gkuk)
+- [3.3. GPT Improving it's own code](https://www.youtube.com/watch?v=MV5QIQSDHDI)
+- [3.4. Auto-GPT Agents: The SEO Revolution](https://www.youtube.com/watch?v=TPO4lxqM5sY)
+- [3.5. Amazon CodeWhisperer](https://www.youtube.com/watch?v=rHNMfOK8pWI) 
